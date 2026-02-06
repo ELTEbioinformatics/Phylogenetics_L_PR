@@ -1,2 +1,2 @@
-# Phylogenetics_L_PR
+# Phylogenetics L+PR
 Phylogenetics at ELTE, course material
